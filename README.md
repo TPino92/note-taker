@@ -13,8 +13,7 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [License](#license)  
-    
+  * [License](#license)    
   * [Live Site](https://lit-waters-46614.herokuapp.com)  
   * [Github Repo](https://github.com/TPino92/note-taker)
   
@@ -41,7 +40,7 @@
   
   ## App In Use
   
-  *Tests for application and how to run them:*
+  *Instructional video*
   
   ![instructional-video](images/readme-gif.gif)
   
