@@ -6,14 +6,17 @@
   
   *What, Why, and How:* 
   
-  This program was made to keep track of notes either for you personal life or buisness. Taking some of the stress out of needing to remember every little detail. It was created using Node.js and Express.js, as well as a node packages.  
+  This program was made to keep track of notes either for you personal life or buisness. Taking some of the stress out of needing to remember every little detail. It was created using Node.js and the Express.js package. The Jest package was also used to testing as well as Heroku to deploy the app to a ![live-site](https://lit-waters-46614.herokuapp.com)
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [License](#license)
+  * [License](#license)  
+    
+  * ![live-site](https://lit-waters-46614.herokuapp.com)  
+  * ![Github-repo](https://github.com/TPino92/note-taker)
   
   ## Installation
   
@@ -25,9 +28,19 @@
   
   *Instructions and examples for use:*
   
-  After cloning the repository to your computer, change into that directory. Open the terminal and run "node index.js". When prompted answer the questions. Simple as that.
+  * Navigate to the live site.  
+  * ![live-site](https://lit-waters-46614.herokuapp.com)  
+  * Click the button to enter the app  
+  * In the right column you'll see a "Note Title" and "Note Textarea"  
+  * Assign the Note a Title  
+  * Then give the note a description  
+  * In the top right of the screen is a save icon  
+  * Click it to save the note  
+  * Saved notes will display their title in the left column  
+  * Click on any of the saved notes to view its description or edit it  
+  * Or you can click on the trash can icon on the right of any saved note to delete it
   
-  ## Tests
+  ## App In Use
   
   *Tests for application and how to run them:*
   
