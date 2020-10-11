@@ -6,7 +6,7 @@
   
   *What, Why, and How:* 
   
-  This program was made to keep track of notes either for you personal life or buisness. Taking some of the stress out of needing to remember every little detail. It was created using Node.js and the Express.js package. The Jest package was also used to testing as well as Heroku to deploy the app to a ![live-site](https://lit-waters-46614.herokuapp.com)
+  This program was made to keep track of notes either for you personal life or buisness. Taking some of the stress out of needing to remember every little detail. It was created using Node.js and the Express.js package. The Jest package was also used to testing as well as Heroku to deploy the app to a [Live Site](https://lit-waters-46614.herokuapp.com).
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,8 +15,8 @@
   * [Tests](#tests)
   * [License](#license)  
     
-  * ![live-site](https://lit-waters-46614.herokuapp.com)  
-  * ![Github-repo](https://github.com/TPino92/note-taker)
+  * [Live Site](https://lit-waters-46614.herokuapp.com)  
+  * [Github Repo](https://github.com/TPino92/note-taker)
   
   ## Installation
   
@@ -28,8 +28,7 @@
   
   *Instructions and examples for use:*
   
-  * Navigate to the live site.  
-  * ![live-site](https://lit-waters-46614.herokuapp.com)  
+  * Navigate to the [Live Site](https://lit-waters-46614.herokuapp.com).   
   * Click the button to enter the app  
   * In the right column you'll see a "Note Title" and "Note Textarea"  
   * Assign the Note a Title  
