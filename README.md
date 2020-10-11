@@ -42,7 +42,7 @@
   
   *Instructional video*
   
-  ![instructional-video](images/readme-gif.gif)
+  ![instructional-video](public\assets\images\readme-gif.gif)
   
   ## License
   
